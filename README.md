@@ -1,7 +1,7 @@
 # BobUzh.github.io
 
 
- [my-easy-trello](https://bobuzh.github.io/my-easy-trello/ "my easy trello")
+ [my-easy-trello-React/Redux](https://bobuzh.github.io/my-easy-trello/ "my easy trello")
 
  [landing_flexbox](https://bobuzh.github.io/landing/ "landing FlexBox")
  
